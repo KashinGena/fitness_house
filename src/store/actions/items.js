@@ -1,7 +1,7 @@
 export  function loadItems () {
     return (dispatch,getState) => {
        
-        fetch("/data/service.json",
+        fetch("data/service.json",
        
         
     {
