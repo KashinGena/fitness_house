@@ -1,0 +1,40 @@
+.fitness-list {
+   
+    align-items: center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+   
+}
+.fitness-list__inner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+
+@media (max-width: 1024px) {
+    .container {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 0 15px;
+    
+       
+    }
+}
+
+@media (max-width: 768px) {
+    .fitness-list__inner {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content:center;
+        margin-bottom: 50px;
+        flex-direction: column;
+    }
+    
+}
