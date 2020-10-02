@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fitness_house/static/css/main.b59d7f32.chunk.css",
+    "main.js": "/fitness_house/static/js/main.e242ac47.chunk.js",
+    "main.js.map": "/fitness_house/static/js/main.e242ac47.chunk.js.map",
+    "runtime-main.js": "/fitness_house/static/js/runtime-main.b01464ef.js",
+    "runtime-main.js.map": "/fitness_house/static/js/runtime-main.b01464ef.js.map",
+    "static/js/2.d5c06b03.chunk.js": "/fitness_house/static/js/2.d5c06b03.chunk.js",
+    "static/js/2.d5c06b03.chunk.js.map": "/fitness_house/static/js/2.d5c06b03.chunk.js.map",
+    "index.html": "/fitness_house/index.html",
+    "precache-manifest.8dc38a24cfde4095b045774233cbb69f.js": "/fitness_house/precache-manifest.8dc38a24cfde4095b045774233cbb69f.js",
+    "service-worker.js": "/fitness_house/service-worker.js",
+    "static/css/main.b59d7f32.chunk.css.map": "/fitness_house/static/css/main.b59d7f32.chunk.css.map",
+    "static/js/2.d5c06b03.chunk.js.LICENSE.txt": "/fitness_house/static/js/2.d5c06b03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b01464ef.js",
+    "static/js/2.d5c06b03.chunk.js",
+    "static/css/main.b59d7f32.chunk.css",
+    "static/js/main.e242ac47.chunk.js"
+  ]
+}
