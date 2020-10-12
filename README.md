@@ -1,7 +1,7 @@
 # Fitness House
 ## Тестовое задание на позицию Frontend Developer в компанию Fitness House
 
-Проект выполнен на Reactс использованием Redux и React router dom
+Проект выполнен на React с использованием Redux и React router dom
 
 [Ссылка на задание](https://github.com/fhcs/test-task-web)
 
